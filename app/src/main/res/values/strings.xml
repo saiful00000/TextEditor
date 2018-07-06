@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TextEditor</string>
+    <string name="hint">Write here...</string>
+    <string name="button1">CLick To Show</string>
+</resources>
